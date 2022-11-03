@@ -5,6 +5,7 @@ Contains 2 projects of Amazon web scraping
 1. Scraping of Specific amazon product to get details like Title, Price, Rating and Date(scraping date) and store data into CSV file.
 2. Get the list of best seller books for kids from amazon and store it into CSV file.
 
+Tools used : Python, Jupyter Notebook
 Web Scraping Notes :
 	• Web scraping is the process of gathering information from the Internet
 
