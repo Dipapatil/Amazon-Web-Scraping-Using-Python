@@ -6,6 +6,7 @@ Contains 2 projects of Amazon web scraping
 2. Get the list of best seller books for kids from amazon and store it into CSV file.
 
 Tools used : Python, Jupyter Notebook
+
 Web Scraping Notes :
 	• Web scraping is the process of gathering information from the Internet
 
